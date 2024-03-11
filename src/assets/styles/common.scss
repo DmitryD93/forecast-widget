@@ -1,0 +1,22 @@
+@import "variables";
+
+* {
+  box-sizing: border-box;
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 16px;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+a {
+  font-size: inherit;
+  line-height: inherit;
+  color: inherit;
+}
